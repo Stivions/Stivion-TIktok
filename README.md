@@ -3,7 +3,7 @@
 **Stivion TikTok** es una herramienta con interfaz gráfica (GUI) desarrollada en Python para descargar videos de TikTok **sin marca de agua**, de forma rápida, sencilla y sin configuraciones complicadas.
 
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbG51Z2J6cXB5ZGlqemxkZ3RzeGhhZWliem9saTZrdWRmcW1mcThwOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/rfVXCDWJf5FwdCD7hz/giphy.gif" width="600" alt="Demo de Stivion TikTok">
+  <img src="icon1.gif" width="600" alt="Demo de Stivion TikTok">
   <br>
   <em>🎥 Demostración de la aplicación en acción</em>
 </div>
