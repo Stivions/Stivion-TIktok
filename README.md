@@ -28,5 +28,7 @@
 
 ```bash
 📁 assets/
-├── demo.gif        ← (GIF de demostración)
-├── gui.png         ← (Captura de la interfaz)
+├── StivionTikTok.py       ← (Codigo)
+├── README.MD        ← (Readme)
+├── icon.ico        ← (Logo de la app)
+├── icon1.gif        ← (GIF de demostración)
